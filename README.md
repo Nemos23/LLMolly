@@ -1,7 +1,7 @@
 LLM Fine tuning
 ==============================
 
-Project to fin tune a LLM to several specific task. Initially it will be trained in logistics documentation
+Project to fine tune a LLM to several specific task. Initially it will be trained in logistics documentation
 
 Project Organization
 ------------
